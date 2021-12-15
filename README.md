@@ -1,2 +1,2 @@
 # emoji-pedia-mark8
-Created with CodeSandbox
+Play with emojis and do fun 
